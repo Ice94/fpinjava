@@ -1,4 +1,4 @@
-package com.fpinjava.functions.exercise02_01;
+package java.com.fpinjava.functions.exercise02_01;
 
 public class FunctionExamples {
 

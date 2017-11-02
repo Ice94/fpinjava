@@ -1,8 +1,8 @@
-package com.fpinjava.functions.exercise02_01;
+package java.com.fpinjava.functions.exercise02_01;
 
-import static com.fpinjava.functions.exercise02_01.FunctionExamples.compose;
-import static com.fpinjava.functions.exercise02_01.FunctionExamples.triple;
-import static com.fpinjava.functions.exercise02_01.FunctionExamples.square;
+import static java.com.fpinjava.functions.exercise02_01.FunctionExamples.compose;
+import static java.com.fpinjava.functions.exercise02_01.FunctionExamples.triple;
+import static java.com.fpinjava.functions.exercise02_01.FunctionExamples.square;
 import static org.junit.Assert.*;
 
 import org.junit.Test;

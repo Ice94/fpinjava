@@ -1,7 +1,7 @@
-package com.fpinjava.functions.exercise02_00;
+package java.com.fpinjava.functions.exercise02_00;
 
 import static org.junit.Assert.*;
-import static com.fpinjava.functions.exercise02_00.FunctionExamples.*;
+import static java.com.fpinjava.functions.exercise02_00.FunctionExamples.*;
 
 import org.junit.Test;
 
