@@ -1,4 +1,4 @@
-package java.com.fpinjava.functions.exercise02_00;
+package com.fpinjava.functions.exercise02_00;
 
 public interface Function {
   
